@@ -1,0 +1,24 @@
+# 🎓 College Management System
+
+A simple and responsive **College Management System** built using **HTML**, **CSS**, and **JavaScript**. This project is designed to simulate a basic interface for managing student and college-related activities such as course details, student profiles, and announcements.
+
+## 🚀 Project Overview
+
+This College Management System aims to simplify and digitize administrative tasks typically handled manually in colleges. It serves as a frontend prototype and showcases UI design, navigation structure, and interactivity.
+
+## ✨ Features
+
+- 🧑‍🎓 Student registration and profile management
+- 📚 Course listing with details
+- 📅 Academic calendar and announcements
+- 🔍 Search functionality for students/courses
+- 🖥️ Responsive design for desktop and mobile views
+
+## 🛠️ Tech Stack
+
+- **HTML** – Structure of the application
+- **CSS** – Styling and layout
+- **JavaScript** – Interactivity and basic functionality
+
+## 📁 Folder Structure
+
